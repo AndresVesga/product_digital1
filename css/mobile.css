@@ -1,0 +1,20 @@
+@media (max-width: 600px) /*Esta es el tamaño en el que se activarán las especificaciones*/
+{
+.products{
+  display: inherit;
+  height: auto;
+  max-height: none;
+}
+.product
+{
+  margin-top: auto;
+}
+.main_section
+{
+  padding: 4%;
+}
+.Beneficios, .Mentions
+{
+  display: inherit;
+}
+}
